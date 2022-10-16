@@ -11,8 +11,8 @@ print(name.upper())
 print(name.lower())
 
 # Concatenacion de cadenas
-first_name = "pedro"
-last_name = "rodriguez"
+first_name = "juan"
+last_name = "perez"
 # Concatenando los valores de las variables
 # usando el simbolo (+)
 full_name = first_name + " " + last_name

@@ -4,7 +4,7 @@ varible, create a message that reveals your favorite number.
 Print that message.
 """
 
-fav_number = 13
+fav_number = 42
 
 message = "My favorite number is " + str(fav_number) + "!"
 

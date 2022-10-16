@@ -8,7 +8,7 @@ Then print the name using each of the three stripping
 functions, lstrip(), rstrip(), and strip().
 """
 
-name = "\t Pedro \t\nAntonio "
+name = "\tAlbert \t\Einstein "
 
 print(name)
 print(name.lstrip())
